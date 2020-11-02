@@ -1,0 +1,14 @@
+{
+  "security":   { "critical_level":false,
+                 "error_level":false,
+                 "warning_level":false
+                },
+  "system"  :   {"critical_level":false,
+                 "error_level":true,
+                 "warning_level":true
+                },
+  "application":{"critical_level":true,
+                 "error_level":false,
+                 "warning_level":true
+                }
+}

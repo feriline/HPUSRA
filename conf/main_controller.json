@@ -1,0 +1,18 @@
+{
+  "sensors":{
+    "file_system": false,
+    "file_statistics":false,
+    "drives_info":false,
+    "location_finder": false,
+    "network_connection": false,
+    "event_log": true,
+    "running_processes": false,
+    "installed_programs": true,
+    "system_setting": true
+  },
+  "time_intervals":{
+    "event_log": 24,
+    "installed_software": 24,
+    "drives_info": 24
+  }
+}

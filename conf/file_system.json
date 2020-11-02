@@ -1,0 +1,6 @@
+{
+    "include":"c:\\;g:\\",
+    "exclude":"Users;Windows;Program Files",
+    "exclude_extension_categories":"Image;System related",
+    "ignore_directory":true
+}

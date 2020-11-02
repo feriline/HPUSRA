@@ -1,0 +1,48 @@
+[
+  {"category": "Audio",
+   "extensions":["mid", "midi","mp3","mpa","ogg","wav","wma","wpl","iff","m3u","m4a"]},
+  
+  {"category": "Video",
+   "extensions":["3g2", "3gp", "asf", "avi", "flv", "h264", "m4v", "mkv", "mov", "mp4", "mpg", "rm", "swf", "vob", "wmv"]},
+
+  {"category": "Image",
+   "extensions":["ai", "bmp", "gif", "ico", "jpeg", "jpg", "png", "ps", "psd", "svg", "tif", "tiff", "dds", "pspimage", "yga", "esp", "3dm", "3ds", "max", "obj", "fla"]},
+
+  {"category": "CAD",
+   "extensions":["dwg", "dxf"]},
+
+  {"category": "Programming",
+   "extensions":["c", "class", "cpp", "cs", "h", "java", "lua", "m", "pl", "py", "sh", "sln", "swift", "vb", "vcxproj", "xcodeproj"]},
+
+  {"category": "Web",
+   "extensions":["as", "aspx", "cer", "cfm", "csr", "css", "dcr", "htm", "html", "js", "jsp", "php", "rss", "xhtml"]},
+
+  {"category": "Spreadsheet",
+   "extensions":["ods", "xlr", "xls", "xlsx", "csv"]},
+
+  {"category": "Presentation",
+   "extensions":["key", "odp", "pps", "ppt", "pptx"]},
+
+  {"category": "Word processor and text",
+   "extensions":["doc", "docx", "odt", "pdf", "rtf", "tex", "txt", "wks", "wps", "wpd", "pages"]},
+
+  {"category": "Game",
+   "extensions":["b", "dem", "gam", "nes", "rom", "sav"]},
+
+  {"category": "Compressed",
+   "extensions":["7z", "arj", "deb", "pkg", "rar", "rpm", "tar.gz", "z", "zip", "cbr", "sitx", "gz", "zipx"]},
+
+  {"category": "Disc and media",
+   "extensions":["bin", "dmg", "iso", "toast", "vcd", "cue", "mdf"]},
+
+  {"category": "Backup",
+   "extensions":["113", "abk", "acr", "adi", "afi", "as4", "ashbak", "backupdb", "bakx", "bbz", "bkp", "bkz", "bmk", "bpa", "cbu", "cenon~", "cmf", "dba", "dim", "dna", "dpb", "dsb", "fbf", "fbw", "fh", "fwbackup", "gbp", "gho", "jbk" , "jpa", "jps", "kb2", "nba", "nbak", "nbd", "nbf", "nco", "nda", "noy", "pba", "pbd", "pbf", "psa", "ptb", "sn1", "sn2", "sna", "spf", "stg", "vbk", "vrb", "wbb", "xbk"]},
+
+  {"category": "System related",
+   "extensions":["bak", "cab", "cfg", "cpl", "cur", "dll", "dmp", "drv", "icns", "ico", "ini", "lnk", "msi", "sys", "tmp", "prf"]},
+
+  {"category": "Executable",
+   "extensions":["apk", "bat", "bin", "cgi", "pl", "com", "exe", "gadget", "jar", "py", "wsf"]}
+
+]
+

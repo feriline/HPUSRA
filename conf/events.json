@@ -1,0 +1,536 @@
+[
+    {
+        "type": "Security",
+        "source": "Security",
+        "id": 4609,
+        "description": "Windows is shutting down."
+    },
+    {
+        "type": "Security",
+        "source": "USER32",
+        "id": 1074,
+        "description": "The process nnn has initiated the restart of computer."
+    },
+    {
+        "type": "Security",
+        "source": "Security",
+        "id": 4610,
+        "description": "An authentication package has been loaded by the Local Security Authority."
+    },
+    {
+        "type": "Security",
+        "source": "Security",
+        "id": 4611,
+        "description": "A trusted logon process has registered with the Local Security Authority."
+    },
+    {
+        "type": "Security",
+        "source": "Security",
+        "id": 4612,
+        "description": "Internal resources allocated for the queuing of audit messages have been exhausted, leading to the loss of some audits."
+    },
+    {
+        "type": "Security",
+        "source": "Security",
+        "id": 4614,
+        "description": "A notification package has been loaded by the Security Account Manager."
+    },
+    {
+        "type": "Security",
+        "source": "Security",
+        "id": 4615,
+        "description": "A process is using an invalid local procedure call (LPC) port"
+    },
+    {
+        "type": "Security",
+        "source": "Security",
+        "id": 4616,
+        "description": "The system time was changed"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4624,
+        "description": "Successful Logon."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4624,
+        "description": "Successful Network Logon."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4625,
+        "description": "Logon Failure - Unknown user name or bad password"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4625,
+        "description": "Logon Failure - Account logon time restriction violation."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4625,
+        "description": "Logon Failure - Account currently disabled."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4625,
+        "description": "Logon Failure - The specified user account has expired."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4625,
+        "description": "Logon Failure - User not allowed to logon at this computer"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4625,
+        "description": "Logon Failure - The user has not been granted the requested logon type at this machine."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4625,
+        "description": "Logon Failure - The specified account's password has expired."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4625,
+        "description": "Logon Failure - The NetLogon component is not active."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4625,
+        "description": "Logon failure - The logon attempt failed for other reasons"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4625,
+        "description": "Logon Failure - Account locked out."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4634,
+        "description": "User Logoff."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4646,
+        "description": "IKE DoS-prevention mode started."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4647,
+        "description": "User initiated logoff."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4648,
+        "description": "A logon was attempted using explicit credentials."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4649,
+        "description": "A replay attack was detected."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4697,
+        "description": "A service was installed in the system."
+    },
+    {
+        "type": "Security",
+        "source": "Object access",
+        "id": 4688,
+        "description": "A new process created."
+    },
+    {
+        "type": "Security",
+        "source": "Object access",
+        "id": 4697,
+        "description": "A new service installed."
+    },
+    {
+        "type": "Security",
+        "source": "Object access",
+        "id": 4698,
+        "description": "A scheduled task was created."
+    },
+    {
+        "type": "Security",
+        "source": "Object access",
+        "id": 4699,
+        "description": "A scheduled task was created."
+    },
+    {
+        "type": "Security",
+        "source": "Object access",
+        "id": 4700,
+        "description": "A scheduled task was created."
+    },
+    {
+        "type": "Security",
+        "source": "Object access",
+        "id": 4701,
+        "description": "A scheduled task was created."
+    },
+    {
+        "type": "Security",
+        "source": "Object access",
+        "id": 4702,
+        "description": "A scheduled task was created."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4720,
+        "description": "User Account Created."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4722,
+        "description": "User Account Enabled."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4723,
+        "description": "Change Password Attempt."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4724,
+        "description": "User Account password set."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4725,
+        "description": "User Account Disabled."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4726,
+        "description": "User Account Deleted."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4732,
+        "description": "Local User Account Created."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4738,
+        "description": "User Account Changed."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4739,
+        "description": "GPO changed."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4740,
+        "description": "User Account Locked Out."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4741,
+        "description": "Computer Account Created."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4742,
+        "description": "Computer Account Changed."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4743,
+        "description": "Computer Account Deleted."
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 4767,
+        "description": "A user account was unlocked."
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4768,
+        "description": "Kerberos TGT was requested"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4771,
+        "description": "Kerberos pre-authentication failed"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4772,
+        "description": "Kerberos TGT request failed"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4774,
+        "description": "An account was mapped for logon"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4775,
+        "description": "The name: %2 could not be mapped for logon by: %1"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4776,
+        "description": "Account Used for Logon by"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4777,
+        "description": "The logon to account: %2 by: %1 from workstation: %3 failed"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4778,
+        "description": "Session reconnected to winstation"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4779,
+        "description": "Session disconnected from winstation"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4800,
+        "description": "The workstation was locked"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4801,
+        "description": "The workstation was unlocked"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4802,
+        "description": "The screen saver was invoked"
+    },
+    {
+        "type": "Security",
+        "source": "Security(Logon/Logoff)",
+        "id": 4803,
+        "description": "The screen saver was dismissed"
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 5136,
+        "description": "GPO changed"
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 5137,
+        "description": "GPO created"
+    },
+    {
+        "type": "Security",
+        "source": "Account Management",
+        "id": 5141,
+        "description": "GPO deleted"
+    },
+    {
+        "type": "System",
+        "source": "EventLog",
+        "id": 6005,
+        "description": "The event log was started"
+    },
+    {
+        "type": "System",
+        "source": "EventLog",
+        "id": 6006,
+        "description": "The Event log service was stopped"
+    },
+    {
+        "type": "System",
+        "source": "EventLog",
+        "id": 6013,
+        "description": "System uptime"
+    },
+    {
+        "type": "System",
+        "source": "EventLog",
+        "id": 1102,
+        "description": "The audit log was cleared"
+    },
+    {
+        "type": "System",
+        "source": "EventLog",
+        "id": 1104,
+        "description": "The security Log is now full"
+    },
+    {
+        "type": "System",
+        "source": "EventLog",
+        "id": 1105,
+        "description": "Event log automatic backup"
+    },
+    {
+        "type": "System",
+        "source": "EventLog",
+        "id": 1108,
+        "description": "The event logging service encountered an error"
+    },
+    {
+        "type": "System",
+        "source": "Service Control Manager",
+        "id": 7035,
+        "description": "The nnn service was successfully sent a start/Stop control"
+    },
+    {
+        "type": "System",
+        "source": "Service Control Manager",
+        "id": 7036,
+        "description": "The nnn service entered the Running/Stopped state"
+    },
+    {
+        "type": "System",
+        "source": "W32Time",
+        "id": 29,
+        "description": "The time provider NtpClient is configured to acquire time from one or more time sources; however none of the sources are currently accessible"
+    },
+    {
+        "type": "System",
+        "source": "W32Time",
+        "id": 38,
+        "description": "The time provider NtpClient cannot reach or is currently receiving invalid time data"
+    },
+    {
+        "type": "System",
+        "source": "W32Time",
+        "id": 47,
+        "description": "Time Provider NtpClient: No valid response received"
+    },
+    {
+        "type": "System",
+        "source": "Active Directory",
+        "id": 1125,
+        "description": "Internal Error"
+    },
+    {
+        "type": "System",
+        "source": "Active Directory",
+        "id": 1127,
+        "description": "Generic Internal Error"
+    },
+    {
+        "type": "System",
+        "source": "Microsoft-Windows-GroupPolicy",
+        "id": 1129,
+        "description": "Group Policy Application Failed due to Connectivity"
+    },
+    {
+        "type": "System",
+        "source": "Other System Events",
+        "id": 5032,
+        "description": "Windows Firewall was unable to notify the user that it blocked an application from accepting incoming connections on the network"
+    },
+    {
+        "type": "System",
+        "source": "Other System Events",
+        "id": 5034,
+        "description": "The Windows Firewall Driver has been stopped"
+    },
+    {
+        "type": "System",
+        "source": "Other System Events",
+        "id": 5035,
+        "description": "The Windows Firewall Driver failed to start"
+    },
+    {
+        "type": "System",
+        "source": "Other System Events",
+        "id": 5037,
+        "description": "The Windows Firewall Driver detected critical runtime error. Terminating"
+    },
+    {
+        "type": "External media detection",
+        "source": "",
+        "id": 43,
+        "description": "new device information"
+    },
+    {
+        "type": "External media detection",
+        "source": "",
+        "id": 400,
+        "description": "new mass storage installation"
+    },
+    {
+        "type": "Software and service installation",
+        "source": "",
+        "id": 903,
+        "description": "new application installation"
+    },
+    {
+        "type": "Software and service installation",
+        "source": "",
+        "id": 906,
+        "description": "updated application"
+    },
+    {
+        "type": "Software and service installation",
+        "source": "",
+        "id": 908,
+        "description": "removed application"
+    },
+    {
+        "type": "Software and service installation",
+        "source": "",
+        "id": 1033,
+        "description": "new MSI file installed"
+    },
+    {
+        "type": "Software and service installation",
+        "source": "",
+        "id": 6,
+        "description": "new kernel filter driver"
+    }
+]

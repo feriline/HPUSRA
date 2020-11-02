@@ -1,0 +1,18 @@
+{
+    "nic": {
+        "wireless": {},
+        "ethernet": {},
+        "vpn": {}
+    },
+    "partitions": [],
+    "file_statistics": {},
+    "installed_software": {},
+    "special_software": {},
+    "spent_time": {},
+    "system_setting": {},
+    "system_events": {
+        "Security": {},
+        "System": {},
+        "Application": {}
+    }
+}
